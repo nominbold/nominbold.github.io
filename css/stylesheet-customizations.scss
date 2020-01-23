@@ -7,7 +7,8 @@
 
 // Customize the background color
 body {
-  background: gradient(to bottom, lightsteelblue, whitesmoke);
+  //background: linear-gradient(to bottom, lightsteelblue, whitesmoke);
+  background: -webkit-gradient(linear, to bottom, from(lightsteelblue), to(whitesmoke)) fixed;
 }
 
 // Customize the menubar color
