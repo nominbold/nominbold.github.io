@@ -90,10 +90,12 @@
       "website": "https://www.honolulu.hawaii.edu/testingandtutoring/",
       "startDate": "2016-05-01",
       "endDate": "Present",
-      "summary": "Helping students with Math and Chemistry, as well as AutoCAD and Revit",
+      "summary": "Helping students with:",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Math 25 to Calculus",
+        "Chemistry",
+        "AutoCAD",
+        "Revit"
       ]
     }
   ],
@@ -103,7 +105,12 @@
       "position": "Student-volunteer",
       "startDate": "2016-11-01",
       "endDate": "2016-11-07",
-      "summary": "Helping in wood framing construction. Nailing in parts of the house, and securing foundation"
+      "summary": ""
+      "highlights": [
+        "Assisting wood framing construction",
+        "Nailing in parts",
+        "Securing foundation"
+      ]
     },
     {
       "organization": "Honolulu Museum of Art School",
