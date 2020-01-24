@@ -15,4 +15,4 @@ I've heard about Discord all the time. My friends played games a lot, and it was
 It's mostly because I get to make friends who are in the same major as me. They are very nice and friendly, and you can directly message if you have any questions. It shows who's the admin and who's in charge of certain things. Another good thing is that there are senior students who could help me and tutor me to be better student in my classes. I talked to many people on the first day I joined Discord and joined the ACM channel. People messaged me, too, to welcome me into the club, which I thought was really sweet.
 
 ##### *Do you want to join?*
-you can join the UH Manoa ACM channel through discord.gg/hUANusC
+you can join the UH Manoa ACM channel through [here](https://discordapp.com/invite/hUANusC).
