@@ -5,10 +5,6 @@ image: images/pidgeon.jpg
 title: Pidgeon
 permalink: projects/pidgeon
 date: 2020-01-23
-labels:
-  - pidgeon
-  - bird
-  - unrelated
 summary: While waiting for my friend, I became friends with pidgeon.
 ---
 
