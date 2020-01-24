@@ -4,7 +4,7 @@ type: project
 image: images/sunny.jpg
 title: Cockatiel
 permalink: projects/Cockatiel
-date: 202-01-23
+date: 2020-01-23
 Labels:
   - Cockatiel
   - Bird
