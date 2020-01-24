@@ -7,13 +7,12 @@
 
 // Customize the background color
 body {
-  background: linear-gradient(right bottom, lightsteelblue, whitesmoke);
-  background-repeat: no-repeat;
+  background: whitesmoke;
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: lightsteelblue;
+  background: linear-gradient(bottom, lightsteelblue, whitesmoke);
 }
 
 // Customize the home page icon colors
