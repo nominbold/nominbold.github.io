@@ -24,8 +24,7 @@ Good question. Why are you still friends with someone who hurt you? Instead of b
 They are such a tiny bird, but they fly acros the Pacific. You might spot them here and there, and if you're feeling good, give them a hand. They deserve it. If you want to know more about this bird, you can check [this out](https://phys.org/news/2011-06-plovers-tracked-pacific.html).
 
 That's the end of it, thank you for reading! Here's a small checklist for you if you decide to make friends with birds:
-[ ] Any type of rice 
-[ ] A bag for the rice
-[ ] Find a spot with birds
-[ ] Have fun and make friends with funny walking birds
-
+* Any type of rice 
+* A bag for the rice
+* Find a spot with birds
+* Have fun and make friends with funny walking birds
