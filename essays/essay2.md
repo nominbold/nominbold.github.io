@@ -11,10 +11,10 @@ labels:
 
 Learning a new language is always hard, so is learning a programming language. However, there's always a good way to learn something. What I like to do is to take my time, meaning I section out my studying time with lots of breaks. It's a common practice for many students to do everything in one day, but that's only the best way to torture yourself. 
 
-* **_Plan things beforehand:_**
+* **_Plan things beforehand._**
 Make time to study the new language, everyday. The trick is you only do it for 30 to 40 min each day. That gives your brain to absorb the information and transport them into your long term memory (which is very helpful). If you have more than 40 min each day, then take at least 10 min break after 30-40 min of studying. If you can sit through more than 40 min, good for you, but not good for your brain. It will only give you pain and headaches. Take water breaks as much as possible because your brain needs lots of water to stay fresh and running. 
 
-* **_Sleep on it! _**
+* **_Sleep on it!_**
 And that is the best way to learn something. You might not believe it now, but your brain works more when you are sleeping. When you are in your REM sleep, your brain re-learns everything you learned that day (which sort of explains the weird dreams you have). If you were to think your brain as a computer, sleeping is like compiling your source code to make it something useful. There's even a studying method where you take naps between each lap of learning and revising. Take some nap and let your brain do its job!
 
 * **_Be consistent with it._**
