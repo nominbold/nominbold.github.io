@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pidgeon.jpg
+image: images/tutor.jpg
 title: Working as a Tutor
 permalink: projects/working
 date: 2020-01-23
