@@ -5,7 +5,7 @@ image: images/tutor.jpg
 title: Working as a Tutor
 permalink: projects/working
 date: 2020-01-23
-summary: Working as a tutor helped me understand lot of things as a student and a teacher. Everyone has a different need when it comes to learning, and everyone has a different method of learning.  
+summary: Working as a tutor helped me understand lot of things as a student and a teacher. Everyone has a different need when it comes to learning, and everyone has a different method of learning as well. Here are some things I learned while I worked at the Tutoring Center at Honolulu Community College. 
 ---
 
 <img class="ui medium left floated rounded image" src="/images/tutor.jpg">
