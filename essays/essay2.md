@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Taking Your Time
+title: Javascript is Easy but Still You Take Your Time
 date: 2020-01-23
 labels:
   - Javascript
