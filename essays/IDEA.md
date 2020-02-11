@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Old Fashioned But Effective
+title: Old Fashioned Yet Experience For Future
 date: 2020-02-10
-Labels:
+labels:
   - IntelliJ
   - ESLint
   - Code Standard
