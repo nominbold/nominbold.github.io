@@ -4,10 +4,10 @@ type: essay
 title: Old Fashioned But Effective
 date: 2020-02-10
 Labels:
-  - software engineering
   - IntelliJ
   - ESLint
   - Editor
+  - Code Standard
 ---
 
 For this learning module, we covered many things, such as development environment and coding styles. Personally, I think it might have been too much to cover over the weekends. I had many struggles to figure out what I am supposed to do throughout the module even though I followed the intsructions through and through. Another problem I came across the most was that I use Windows (Dell), and the teacher uses Mac to teach all of the lessons, which sometimes leaves me with lots of questions that can't be answered through Slack channel. Maybe I am too afraid to ask the question because I don't want to look stupid, but at the same time, I know these things are supposed to be easy and simple. I spent the weekends pulling my hair because none of the things seemed to work, and I was worried that I was going to go crazy over `npm` command lines. I often wondered 'Why can't we use something more modern and simple?' My personal experience was difficult but at the end, I sort of figured out what I was doing wrong and things eventually worked.
