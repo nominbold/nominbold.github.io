@@ -18,8 +18,9 @@ As we learn more and more about userface interactions, people are finally realiz
 
 _**Here is an example of wed page designs:**_
 <p float="left">
-<img src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png"><img src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
-  </p>
+<img class="ui medium rounded image" src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png">
+<img class="ui medium rounded image" src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
+</p>
 
 
 <i class="ui info icon"></i> The picture on the left is more of an old fashioned web page design, and they are often filled with information left and right that makes it difficult for the user to find the information they're looking for.
