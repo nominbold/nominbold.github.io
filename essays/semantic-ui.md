@@ -20,3 +20,7 @@ _**Here is an example of old fashioned wed page design**_
 
 <img class="ui medium left float image" src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png">
 Even though some people like these kind of design, they are often judged nowadays jsut because they are hard to understand and see where anything is. 
+
+_**Here is an example of most modern web page design**_
+<img class="ui medium left float image" src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
+Most of today's web page design aim for the understandability and the organized look overall. 
