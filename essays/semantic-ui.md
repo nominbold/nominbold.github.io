@@ -18,14 +18,14 @@ As we learn more and more about userface interactions, people are finally realiz
 
 _**Here is an example of old fashioned wed page design**_
 
-<img class="ui left float medium image" src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png">
+<img class="ui medium left floated rounded image" src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png">
 Even though some people like these kind of design, they have some bad designs:
 * looks complicated and unorganized
 * hard to find what you are looking for 
 * too many things going on
 
 _**Here is an example of most modern web page design**_
-<img class="ui left float medium image" src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
+<img class="ui medium left floated rounded image" src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
 Most of today's web page design aim for the understandability and the organized look:
 * looks pretty and organized 
 * easy to find what you are looking for 
