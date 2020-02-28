@@ -20,9 +20,9 @@ _**Here is an example of wed page designs**_
 <img class="ui medium rounded image" src="https://miro.medium.com/max/1118/1*AauvYRhYA6GHTdkC4VbWgA.png">
 <img class="ui medium rounded image" src="https://wpamelia.com/wp-content/uploads/2019/07/colour.jpg">
 
-looks | organized | simple | easy to find items | pretty
+looks&nbsp; |&nbsp; organized &nbsp;|&nbsp; simple &nbsp;|&nbsp; easy to find items &nbsp;| &nbsp;pretty
 ------|-----------|--------|--------------------|--------
-first picture | sort of | no | not really | sort of
-second picture | yes | yes | yes, most of the time | yes
+first picture &nbsp;|&nbsp; sort of &nbsp;| &nbsp;no &nbsp;|&nbsp; not really &nbsp;| &nbsp;sort of
+second picture &nbsp;|&nbsp; yes &nbsp;|&nbsp; yes &nbsp;|&nbsp; yes, most of the time &nbsp;|&nbsp; yes
 
 As you can see, it's not easy to make something that's beautiful, but semantic UI, or UI frameworks, makes it easy for everyone to make a good looking web page. 
