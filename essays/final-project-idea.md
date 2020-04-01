@@ -73,3 +73,6 @@ changed.
 * If a student request for an event, and the event is chosen to be 
 hosted, it would notify the student that which club is planning to 
 host it. 
+* **Recommended Events** page based on the events they attended, it
+would suggest events that student might want to attend.
+  * adding interests section to match events with the student
