@@ -32,7 +32,6 @@ can look at the review to improve their events for their future events.
 Some possible mockup pages include:
 * Landing page
 * Sign up / Sign in button
-* User / Admin home page
 * User / Admin profile page
 * Upcoming Events page
 * Review page
