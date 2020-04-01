@@ -35,8 +35,8 @@ Some possible mockup pages include:
 * User / Admin home page
 * User / Admin profile page
 * Upcoming Events page
-* Review page >> notify when certain event is hosted again
-* Event Request page >> submitted by students to certain clubs
+* Review page
+* Event Request page
 * Admin only : Add Event page >> available to club presidents
 * Admin only : Delete Review page >> in case it's inappropriate 
 
@@ -44,13 +44,13 @@ Some possible mockup pages include:
 What should happen while the user is using the website:
 * New user can sign up, log in, and ends up on the landing page
 * Admin / old users can log in, and ends up at the landing page as well
-* **Landing** page has information about the website in general
-* **Up coming events** page has events hosted by clubs
+* *Landing* page has information about the website in general
+* *Upcoming Events* page has events hosted by clubs
   * User can register for events
-* **Reviews** page will allow the students to look at reviews of old events.
-* **Event Request** page will allow students to leave a request for 
+* *Reviews* page will allow the students to look at reviews of old events.
+* *Event Request* page will allow students to leave a request for 
 events for specific club or all clubs
-* **User Profile** page
+* *User Profile* page
   * shows what clubs they are in
   * leave review for events they participated
 
@@ -62,3 +62,14 @@ ideas for more advanced features:
 it's being hosted again soon. 
 * **Contact a Club** page >> allowing students to contact the club
 presidents for questions or requests
+* **Event Request** page >> making sure that if one club chooses to 
+host a event request, other clubs can't host it unless they cancel
+the event. 
+* If a students register for an event, and the event is **cancelled**, 
+it would notify the students that it's being cancelled.
+* If a students register for an event, and the event **location** 
+or **time** has changed, it would notify the students that what's
+changed.
+* If a student request for an event, and the event is chosen to be 
+hosted, it would notify the student that which club is planning to 
+host it. 
