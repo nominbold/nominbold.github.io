@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Nomin Boldbayar",
+    "label": "Student",
+    "picture": "https://nominbold.github.io/images/pic.jpg",
+    "email": "nominb@hawaii.edu",
+    "phone": "",
+    "website": "https://nominbold.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "nominbold",
+        "url": "http://github.com/nominbold"
+      },
+      {
+        "network": "linkedin",
+        "username": "nominboldbayar",
+        "url": "https://www.linkedin.com/in/nominboldbayar"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Developing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "and Human-Computer Interaction",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Honolulu Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2014-08-01",
+      "endDate": "2017-12-31",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2017-12-31",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Honolulu Community College",
+      "position": "Tutor/Tech Assistant",
+      "website": "https://www.honolulu.hawaii.edu/testingandtutoring/",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Helping students with:",
+      "highlights": [
+        "Math 25 to Calculus",
+        "Chemistry",
+        "AutoCAD",
+        "Revit"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Habitat for Humanity, Honolulu, Hawaii",
+      "position": "Student-volunteer",
+      "startDate": "2016-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Assisting wood framing construction",
+        "Nailing in parts",
+        "Securing foundation"
+      ]
+    },
+    {
+      "organization": "Honolulu Museum of Art School",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        "Assisting disabled students",
+        "Preparing classrooms for a lesson",
+        "Cleaning and organizing weaving equipments"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2017",
+      "awarder": "University of Hawaii - Honolulu Community College",
+      "summary": "Awarded for being an outstanding student for the semester."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2014",
+      "awarder": "University of Hawaii - Honolulu Community College",
+      "summary": "Awarded for being an outstanding student for the semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
