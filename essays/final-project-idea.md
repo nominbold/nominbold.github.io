@@ -9,9 +9,13 @@ labels:
 ---
 
 ### *Overview*
-*The problem*: 
+*The problem*: There are many activities hosted by lots of different
+clubs that not all of the UH Manoa students have access to, such as 
+self defense classes, kickboxing, or painting events.
 
-*The solution*:
+*The solution*: By using the website, students are able to see upcoming
+events hosted by all the clubs among the UH Manoa, and 
+the can register for the event and see/leave review for the events hosted.
 
 ### *Approach*
 To use the website
