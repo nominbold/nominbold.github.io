@@ -47,6 +47,7 @@ What should happen while the user is using the website:
 * *Landing* page has information about the website in general
 * *Upcoming Events* page has events hosted by clubs
   * User can register for events
+  * User can search for events
 * *Reviews* page will allow the students to look at reviews of old events.
 * *Event Request* page will allow students to leave a request for 
 events for specific club or all clubs
