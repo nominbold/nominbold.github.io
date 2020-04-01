@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+## Project Idea: Events Hosted by UH Clubs
 
 ## *Overview*
 *The problem*: There are many activities hosted by lots of different
