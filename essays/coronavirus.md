@@ -8,7 +8,6 @@ labels:
   - Coronavirus
   - effects of quarantine
 ---
- >> How has COVID-19 changed my life as a college student?
 
 ### *The seriousness of this pandemic*
 I learn a lot about biology and micro-organisms on my own, and
@@ -66,5 +65,5 @@ a heavy bag all day, but I don't have to anymore, so my back pain
 went away. 
 
 ### *Overall, stay home and stay safe!*
-<img class="ui huge centered rounded image" src="/images/doctors.jpg.JPG">
+<img class="ui huge centered rounded image" src="/images/doctors.jpg">
 <br/>
