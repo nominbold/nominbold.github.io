@@ -66,7 +66,10 @@ went away.
 
 ### *Overall, stay home and stay safe!*
 <img class="ui huge centered rounded image" src="/images/doctors.jpg">
+
 <img class="ui huge centered rounded image" src="/images/doc.jpg">
+
 <img class="ui huge centered rounded image" src="/images/doctor.jpg">
+
 <img class="ui huge centered rounded image" src="/images/docs.jpg">
 <br/>
