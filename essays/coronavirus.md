@@ -26,8 +26,9 @@ therefore making things worse. For the safety of our family,
 our friends, and others, we have to stay home no matter how much
 we want to leave the house (unless it's essential). 
 
- > We are about to hit 1 Million confirmed cases of COVID-19 worldwide>
+We are about to hit 1 Million confirmed cases of COVID-19 worldwide
 
 <img class="ui large centered floated image" src="/images/stat.PNG">
 
-### *Stay Home rule*
+### *In-Class to Online-Class*
+Luckily, most of my class 
