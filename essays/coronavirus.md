@@ -28,7 +28,7 @@ we want to leave the house (unless it's essential).
 
 We are about to hit 1 Million confirmed cases of COVID-19 worldwide
 
-<img class="ui large center aligned rounded image" src="/images/stat.PNG">
+<img class="ui extra large center aligned rounded image" src="/images/stat.PNG">
 <br/>
 
 ### *In-Class to Online-Class*
