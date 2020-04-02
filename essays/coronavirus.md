@@ -28,6 +28,6 @@ we want to leave the house (unless it's essential).
 
  > We are about to hit 1 Million confirmed cases of COVID-19 worldwide>
 
-<img class="ui medium left floated image" src="/images/stat.PNG">
+<img class="ui large centered floated image" src="/images/stat.PNG">
 
 ### *Stay Home rule*
