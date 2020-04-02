@@ -8,6 +8,7 @@ labels:
   - Coronavirus
   - effects of quarantine
 ---
+ >> How has COVID-19 changed my life as a college student?
 ### *The seriousness of this pandemic*
 I learn a lot about biology and micro-organisms on my own, and
 I know how serious this COVID-19 is. People say "Look on the 
@@ -61,3 +62,5 @@ I can take a nap whenever I want, which helps me with studying for
 a longer time. I cook my own meal instead of not eating anything 
 throughout the day. 
 
+### *Overall, stay home and stay safe!*
+<br/>
