@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: "Experiencing Pandemic as a College Student"
 date: 2020-04-02
 labels:
   - COVID-19
@@ -9,6 +9,7 @@ labels:
   - effects of quarantine
 ---
  >> How has COVID-19 changed my life as a college student?
+
 ### *The seriousness of this pandemic*
 I learn a lot about biology and micro-organisms on my own, and
 I know how serious this COVID-19 is. People say "Look on the 
@@ -29,7 +30,7 @@ we want to leave the house (unless it's essential).
 
 <i class="globe icon"></i> We are about to hit 1 million confirmed cases of COVID-19 worldwide 
 
-<img target="_blank" href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="ui huge centered rounded image" src="/images/map.JPG">
+<img class="ui huge centered rounded image" src="/images/map.JPG">
 
 ### *Stay Home*
 Luckily, most of my class were either inverted or online, so there
@@ -60,7 +61,10 @@ I started working out at home, which was not at all possible
 when I had school, work, and homework piled one after another. Also,
 I can take a nap whenever I want, which helps me with studying for
 a longer time. I cook my own meal instead of not eating anything 
-throughout the day. 
+throughout the day. My back used to hurt a lot because I carried
+a heavy bag all day, but I don't have to anymore, so my back pain
+went away. 
 
 ### *Overall, stay home and stay safe!*
+<img class="ui huge centered rounded image" src="/images/doctors.jpg.JPG">
 <br/>
