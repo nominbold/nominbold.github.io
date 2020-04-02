@@ -71,5 +71,5 @@ went away.
 
 <img class="ui huge centered rounded image" src="/images/doctor.jpg">
 
-<img class="ui huge centered rounded image" src="/images/docs.jpg">
+<img class="ui huge centered rounded image" src="/images/docs.jpeg">
 <br/>
