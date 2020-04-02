@@ -28,7 +28,7 @@ we want to leave the house (unless it's essential).
 
 <i class="globe icon"></i> We are about to hit 1 million confirmed cases of COVID-19 worldwide 
 
-<img href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="ui huge centered rounded image" src="/images/map.JPG">
+<img target="_blank" href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" class="ui huge centered rounded image" src="/images/map.JPG">
 
 ### *Stay Home*
 Luckily, most of my class were either inverted or online, so there
@@ -44,8 +44,8 @@ I don't know how it's affecting my students because they're not
 getting help with their classes. Hopefully, they're doing okey
 and safe from the chaos. 
 
-<i class="question circle icon"></i> If you need help with your
-classes, UH Manoa has [online tutors](https://www.hawaii.edu/tutor/index.php) 
+<i class="info icon"></i> If you need help with your
+classes, UH Manoa has <a href="https://www.hawaii.edu/tutor/index.php" target="_blank">online tutors</a>
 available through myUH
 
 ### *More time for myself*
@@ -60,5 +60,4 @@ when I had school, work, and homework piled one after another. Also,
 I can take a nap whenever I want, which helps me with studying for
 a longer time. I cook my own meal instead of not eating anything 
 throughout the day. 
-
 
