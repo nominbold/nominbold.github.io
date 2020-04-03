@@ -49,20 +49,60 @@ and safe from the chaos.
 classes, UH Manoa has <a href="https://www.hawaii.edu/tutor/index.php" target="_blank">online tutors</a>
 available through myUH
 
-### *More time for myself*
+### *Stay home college student?*
 Even though, what's happening right now is not a happy matter, 
-I think students are getting more sleep, which is very important. 
-Before the quarantine started, I used to bus to school and work, 
-which is slow and has long travel time. Now, I don't have
-to do all that, and I have more time to study and do my homework.
-Basically, there's no time wasted unless I decide to do nothing. 
-I started working out at home, which was not at all possible 
-when I had school, work, and homework piled one after another. Also,
-I can take a nap whenever I want, which helps me with studying for
-a longer time. I cook my own meal instead of not eating anything 
-throughout the day. My back used to hurt a lot because I carried
-a heavy bag all day, but I don't have to anymore, so my back pain
-went away. 
+there has been good changes in my college life. Even though most
+of my classes were either inverted or online, I still went out to
+work and campus to get resource. I have to admit that getting ready
+to go out and the travel time from point A to point B wasted lots
+of time for me as a college students. (I'm sure it's not the same for
+people who don't do makeup or live on campus.)
+
+#### *Getting more sleep*
+Because of the quarantine, as a college student, I am getting more
+sleep, which helps me a lot with studying for a longer time. 
+When I'm out, there's no time to take a nap or rest for a bit. 
+The biggest advantage of staying home all day is that I am able to
+rest whenever I need to rather than only resting when I get home at night.
+Getting more sleep is helping me with focus and understanding 
+things more easily. 
+
+#### *No time wasted*
+For sure, because I don't have to worry about travel time and time
+spent getting ready to go out, I spend most of my time studying
+or doing homework, which helps me stay on schedule in terms of 
+due dates for homework. Pretty much, no time is wasted unless I 
+decide to do nothing. 
+
+#### *Working out at home*
+When I had work, school, and homework piled one after another, it was
+almost impossible to find time to work out. I know that working out
+helps me stay healthy and produce more white cells >> which is very
+important right now because of coronavirus since we have no vaccine
+and all we have is our immune system. Since there is more time,
+it's easy for me to work out when I wake up or before I go to sleep.
+There are many resource on the internet for working out at home, 
+without the need for special gadgets. 
+
+#### *No more back pain*
+Everyday before the quarantine, I used to carry heavy bag all day, 
+which causes me to have back pain at the end of the day. It was hard
+to deal with because I have no other option but to carry my laptop and
+notebooks to write things down. Now, since I don't have to leave home,
+all of my things are on my desk all the time, and I don't have to carry my 
+heavy bag at all. And, my back pain instantly went away after few days.
+I remember that my back pain would bother me when I try to focus on
+homework or lecture, and now since there is no pain, I can focus without
+a hassle. I really like it. 
+
+#### *Actually eating*
+As a college student, I had no time to eat. I was always on the go, and
+it was just me and my water bottle all day. Now, I can eat throughout the
+day and I'm feeling physical changes in my body. Though I know it's hard to
+be a college student, it can be improved by how the school works. As we are
+locked in our homes, we are starting to notice that many things can be virtual
+without the need of physical presence. Some lectures can be taught through
+online, and school still can function with the help of internet. 
 
 ### *Overall, stay home and stay safe!*
 <img class="ui huge centered rounded image" src="/images/doctors.jpg">
