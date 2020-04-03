@@ -55,10 +55,10 @@ there has been good changes in my college life. Even though most
 of my classes were either inverted or online, I still went out to
 work and campus to get resource. I have to admit that getting ready
 to go out and the travel time from point A to point B wasted lots
-of time for me as a college students. (I'm sure it's not the same for
+of time for me as a college student. (I'm sure it's not the same for
 people who don't do makeup or live on campus.)
 
-#### *Getting more sleep*
+#### <i class="hand point right icon"></i> *Getting more sleep*
 Because of the quarantine, as a college student, I am getting more
 sleep, which helps me a lot with studying for a longer time. 
 When I'm out, there's no time to take a nap or rest for a bit. 
@@ -67,14 +67,14 @@ rest whenever I need to rather than only resting when I get home at night.
 Getting more sleep is helping me with focus and understanding 
 things more easily. 
 
-#### *No time wasted*
+#### <i class="hand point right icon"></i> *No time wasted*
 For sure, because I don't have to worry about travel time and time
 spent getting ready to go out, I spend most of my time studying
 or doing homework, which helps me stay on schedule in terms of 
 due dates for homework. Pretty much, no time is wasted unless I 
 decide to do nothing. 
 
-#### *Working out at home*
+#### <i class="hand point right icon"></i> *Working out at home*
 When I had work, school, and homework piled one after another, it was
 almost impossible to find time to work out. I know that working out
 helps me stay healthy and produce more white cells >> which is very
@@ -84,7 +84,7 @@ it's easy for me to work out when I wake up or before I go to sleep.
 There are many resource on the internet for working out at home, 
 without the need for special gadgets. 
 
-#### *No more back pain*
+#### <i class="hand point right icon"></i> *No more back pain*
 Everyday before the quarantine, I used to carry heavy bag all day, 
 which causes me to have back pain at the end of the day. It was hard
 to deal with because I have no other option but to carry my laptop and
@@ -95,7 +95,7 @@ I remember that my back pain would bother me when I try to focus on
 homework or lecture, and now since there is no pain, I can focus without
 a hassle. I really like it. 
 
-#### *Actually eating*
+#### <i class="hand point right icon"></i> *Actually eating*
 As a college student, I had no time to eat. I was always on the go, and
 it was just me and my water bottle all day. Now, I can eat throughout the
 day and I'm feeling physical changes in my body. Though I know it's hard to
