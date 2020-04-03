@@ -27,7 +27,7 @@ therefore making things worse. For the safety of our family,
 our friends, and others, we have to stay home no matter how much
 we want to leave the house (unless it's essential). 
 
-<i class="globe icon"></i> We hit more than 1 million confirmed cases of COVID-19 worldwide 
+<i class="globe icon"></i> We hit more than 1 million confirmed cases of [COVID-19](https://google.com/covid19-map/?hl=en) worldwide 
 
 <img class="ui huge centered rounded image" src="/images/map.JPG">
 
