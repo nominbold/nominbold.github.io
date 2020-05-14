@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tutor.jpg
+image: images/project.PNG
 title: Club Lounge
 permalink: projects/clublounge
 date: 2020-05-13
