@@ -5,10 +5,12 @@ image: images/abc.jpg
 title: How I Learned English in One Year
 permalink: projects/learningenglish
 date: 2020-01-26
-Labels:
+labels:
   - Learning
   - English
   - Self-learning
+  - cartoon
+  - reading
 summary: I moved to Hawaii 6 years ago, and I didn't know any English. I didn't understand anybody, and I coulnd't make myself understood 99% of the time. But here's how I learned the language faster than most people. 
 ---
 
